@@ -31,3 +31,18 @@ The proposed architecture is evaluated on several canonical PDE and dynamical sy
 Empirical results demonstrate consistent improvements over baseline DeepONets across multiple operator learning tasks.
 
 ---
+
+## Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@article{sojitra2026fedonet,
+  title={FEDONet: Fourier-embedded DeepONet for spectrally accurate operator learning},
+  author={Sojitra, Arth and Dhingra, Mrigank and San, Omer},
+  journal={Journal of Computational Physics},
+  pages={114931},
+  year={2026},
+  publisher={Elsevier}
+}
+```
